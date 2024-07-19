@@ -10,7 +10,7 @@ An application designed to keep your mouse cursor confined within the boundaries
 
 - **Enable/Disable Functionality:** Quickly enable or disable the mouse lock feature with a simple keystroke. Enjoy flexibility and control over your gameplay.
 
-- **Lightweight and Efficient:** Designed to run efficiently in the background, Window Lock is a lightweight application that doesn't compromise your system's performance. Enjoy the benefits of mouse containment without any additional lag or overhead.
+- **Lightweight and Efficient:** Designed to run efficiently in the background, RBXUWPCursorLock is a lightweight application that doesn't compromise your system's performance. Enjoy the benefits of mouse containment without any additional lag or overhead.
 
 ## Getting Started
 
