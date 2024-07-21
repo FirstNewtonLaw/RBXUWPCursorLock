@@ -41,6 +41,6 @@ If you encounter this error, it means that your system is missing the Microsoft 
 
 ## Notice
 
-**RBXUWPCursorLock is completely safe to use with Roblox.** It does not perform any code injection or modifications to the game. The application simply manages the mouse position to keep it within the game window, ensuring a secure and compliant gaming experience.
+**RBXUWPCursorLock is completely safe to use with Microsoft Roblox.** It does not perform any code injection or modifications to the game. The application simply manages the mouse position to keep it within the game window, ensuring a secure and compliant gaming experience.
 
 **RBXUWPCursorLock is not a virus.** However, please note that some antivirus scanners on [VirusTotal](https://www.virustotal.com/gui/file/f58b627db26b130ac8ccffac2d15184768ea0544e4e643132c722c46a0d534d1?nocache=1) may flag the application as malicious, with 5 out of 71 showing false positives. This is likely due to the nature of the application modifying mouse behavior, which can trigger some heuristic-based security measures, it does not contain any harmful code.
