@@ -1,10 +1,10 @@
 # RBXUWPCursorLock for [Microsoft Roblox](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM)
 
-An application designed to keep your mouse cursor confined within the boundaries of the Roblox window. This tool is perfect for ensuring a seamless gaming experience without accidental clicks outside the game window.
+An application designed to keep your mouse cursor confined within the boundaries of the Microsoft Roblox window. This tool is perfect for ensuring a seamless gaming experience without accidental clicks outside the game window.
 
 ## Features
 
-- **Automatic Window Detection:** Automatically detects and locks the mouse within the Roblox window, even if you reopen or relaunch Microsoft Roblox. No need for manual adjustments!
+- **Automatic Window Detection:** Automatically detects and locks the mouse within the Microsoft Roblox window, even if you reopen or relaunch Microsoft Roblox. No need for manual adjustments!
 
 - **Customizable Keybinds:** Easily set custom keybinds to enable or disable mouse containment according to your preference. Personalize the controls to fit your unique gaming setup.
 
