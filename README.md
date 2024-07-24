@@ -2,14 +2,13 @@
 
 An application designed to keep your mouse cursor confined within the boundaries of the Microsoft Roblox window. This tool is perfect for ensuring a seamless gaming experience without accidental clicks outside the game window.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kd2bMh-Ulns" frameborder="0" allowfullscreen></iframe>
+
 ## Features
 
 - **Automatic Window Detection:** Automatically detects and locks the mouse within the Microsoft Roblox window, even if you reopen or relaunch Microsoft Roblox. No need for manual adjustments!
 
 - **Customizable Keybinds:** Easily set custom keybinds to enable or disable mouse containment according to your preference. Personalize the controls to fit your unique gaming setup.
-
-
-Uploading 2024-07-19_15-03-10.mp4…
 
 
 - **Enable/Disable Functionality:** Quickly enable or disable the mouse lock feature with a simple keystroke. Enjoy flexibility and control over your gameplay.
